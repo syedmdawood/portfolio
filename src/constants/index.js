@@ -51,6 +51,12 @@ export const PROJECTS = [
       "A fully functional e-commerce website with features like product listing, shopping cart, and admin portal.",
     technologies: ["HTML", "CSS", "React.js", "Radux", "Bootstrap"],
   },
+  {
+    title: "Ticket Booking App",
+    image: project2,
+    description: "Developed a Next.js app for ticket booking, allowing users to seamlessly create, view, update, and delete tickets, simplifying the ticket booking experience.",
+    technologies: ["HTML", "CSS", "Bootstrap", "Next.js"]
+  }
 ];
 
 export const CONTACT = {
