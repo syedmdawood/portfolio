@@ -1,9 +1,4 @@
-import {
-  FaLinkedin,
-  FaGithub,
-  FaSquareXTwitter,
-  FaInstagram,
-} from "react-icons/fa6";
+import { FaLinkedin, FaGithub, FaInstagram } from "react-icons/fa6";
 
 const Navbar = () => {
   return (
@@ -21,7 +16,6 @@ const Navbar = () => {
         <a href="https://github.com/syedmdawood/" target="_blank">
           <FaGithub />
         </a>
-        <FaSquareXTwitter />
         <a href="https://www.instagram.com/syeddawood._/" target="_blank">
           <FaInstagram />
         </a>
